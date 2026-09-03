@@ -1,0 +1,7 @@
+﻿  game.cpp
+C:\GAME PROJECT\MY GAME\game.cpp(449,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\GAME PROJECT\MY GAME\game.cpp(460,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  surface.cpp
+  template.cpp
+  Generating Code...
+  tmpl_2026.vcxproj -> C:\GAME PROJECT\MY GAME\tmpl_2026_debug.exe
